@@ -3,7 +3,7 @@
 
 # Production
 /build
-
+.swp
 # Generated files
 .docusaurus
 .cache-loader
