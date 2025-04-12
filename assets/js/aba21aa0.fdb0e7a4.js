@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraphql_yoga_book=self.webpackChunkgraphql_yoga_book||[]).push([[742],{7093:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
